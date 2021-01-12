@@ -1,6 +1,8 @@
-# Getting Started with COVID-19-Tracker App
+# React Single Page COVID-19-Tracker App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Created with ❤ by:  Olwethu Theo Nyondo 2020 Projects.
 
 ## Available Scripts
 
