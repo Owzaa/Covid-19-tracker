@@ -1,0 +1,32 @@
+.map {
+  height: 600px;
+  background-color: rgba(28, 28, 29, 0.212);
+  padding: 1rem;
+  border-radius: 10px;
+  margin-top: 1px;
+  box-shadow: 0 0 10px -4px rgba(0, 0, 0, 0.5);
+}
+
+.map .leaflet-container {
+  height: 100%;
+  margin: 0px;
+  border-radius: 10px;
+  margin-left: 0.2px;
+  margin-right: 0.2px;
+  background-color: rgba(1, 14, 37, 0.349);
+}
+
+.info-flag img {
+  width: 150px;
+  border-radius: 12px;
+}
+
+.info-name img {
+  font: size 20px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+.info-container img {
+  width: 200px;
+}
